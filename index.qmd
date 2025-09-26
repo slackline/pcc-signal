@@ -1,5 +1,5 @@
 ---
-title: "PCC - WhatsApp or Signal"
+title: "PCC - Communication"
 # format: revealjs
 author:
   - name: Neil Shephard
@@ -35,7 +35,7 @@ filters:
 
 {{< qrcode <https://slackline.github.io/pcc-signal> qr1 width=400 height=400 >}}
 
-[slackline.github.io/pcc-signal](https://slackline.github.io/pcc-signal)
+👇👇👇 [slackline.github.io/pcc-signal](https://slackline.github.io/pcc-signal) 👇👇👇
 
 ## Purpose
 
