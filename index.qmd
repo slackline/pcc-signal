@@ -167,6 +167,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 - "_I've nothing to hide_"
 - Some people don't care about being tracked
+- Privacy should be default (but it's not 😒 )
 
 :::
 ::: {.column width=50%}
@@ -175,7 +176,6 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 - Not about hiding rather right to privacy ([Article 12 UN Declaration of Human
   Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights))
-- Privacy should be default (but its not 😒 )
 - Use of WhatsApp affects your contacts
 - If not bothered switching to privacy respecting tools shouldn't be a problem
 
