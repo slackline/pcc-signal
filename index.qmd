@@ -1,14 +1,15 @@
 ---
-title: "Template Revealjs Quarto site"
+title: "PCC - Communication"
 # format: revealjs
 author:
-  - name: Your Name
-    orcid: 0000-0000-0000-0000
-    email: email@address.work
-    affiliations: Employers Name
+  - name: Neil Shephard
+  - name: Emily Ross
+
 from: markdown+emoji
 format:
-  clean-revealjs:
+  # clean-revealjs:
+  revealjs:
+    theme: dark
     incremental: false
     slide-number: true
     show-slide-number: speaker
@@ -16,10 +17,10 @@ format:
     chalkboard: true
     # embed-resources: true
     # standalone: true
-    header: Quarto RevealJS Template
+    header: PCC Communication
 revealjs-plugins:
   - confetti
-footer: "**Slides** : [**github-username.github.io/<repository>**](https://github-username.github.io/<repository>)"
+footer: "**Slides** : [**slackline.github.io/pcc-signal**](https://slackline.github.io/pcc-signal)"
 project:
   preview:
     port: 7864
@@ -30,309 +31,205 @@ filters:
   - reveal-header
 ---
 
-## Scan This
+## Scan This To View Slides
 
-{{< qrcode <https://ns-rse.github.io/quarto-revealjs-template> qr1 width=400 height=400 >}}
+{{< qrcode <https://slackline.github.io/pcc-signal> qr1 width=400 height=400 >}}
 
-[ns-rse.github.io/quarto-revealjs-template](https://ns-rse.github.io/quarto-revealjs-template)
+👇👇👇 [slackline.github.io/pcc-signal](https://slackline.github.io/pcc-signal) 👇👇👇
 
-## Quarto RevealJS Slides
+## Purpose
 
-This is a [Quarto](https://quarto.org/) template for creating [RevealJS](https://revealjs.com/) slides.
+- Proposed that the club switch from WhatsApp to Signal for primary mode of _official_ communication between members.
 
-The template can be used as a starting point for your own slides and includes a number of different layouts and examples
-of Markdown syntax, slide layout, links, embedding images and configuration options.
+## Peak Climbing Club Communication
 
-## Formatting
+Historically...
 
-Quarto slides are written in [Markdown](https://quarto.org/docs/authoring/markdown-basics.html).
+- Static Website [peakclimbingclub.co.uk][pcc]
+- Facebook Group [facebook.com/peakclimbingclub/][pcc-facebook]
+- WhatsApp Community with Groups
 
-| Markdown Syntax                              | Output                                |
-|:---------------------------------------------|:--------------------------------------|
-| `*italics*`, `**bold**`, `***bolditalics***` | *italics*, **bold**, **bold italics** |
-| `superscript^1^`, `subscript~2~`             | superscript^1^, subscript~2~          |
-| `~~strikethrough~~`                          | ~~strikethrough~~                     |
-| ```code```                                   | `code`                                |
-| `[Quarto](https://quarto.org)`               | [Quarto](https://quarto.org)          |
+## WhatsApp [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp)
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Privately owned by Meta
+- For profit (if not paying **you** are the product)
+- Messages end-to-end encrypted but "metadata" isn't
+- Code base is closed source (no scrutiny)
+- WhatsAppp shares **all** your contacts with Meta
+- **Excludes** those who _are_ concerned about privacy
+
+:::
+::: {.column width=50%}
+
+### Metadata Tracked
+
+- GPS Location
+- IP Address
+- Who you are messaging
+- When you are messaging
+- Communities/groups you are in
+- Your **contacts** details
+
+:::
+::::
+
+## Signal [![](img/signal.png){width=70}](https://www.flaticon.com/free-icons/signal)
+
+- Privacy Focused
+- Owned by non-profit Signal Foundation
+
+## {.scrollable}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+#### WhatsApp [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp)
+
+- Meta, for Profit
+- **You** are the product
+- Can't hide phone number
+- Tracks Metadata
+  - Interactions
+  - Location
+  - IP Address
+  - Usage
+- Builds user profile
+- Politically motivated
+
+:::
+::: {.column width=50%}
+
+#### Signal [![](img/signal.png){width=70}](https://www.flaticon.com/free-icons/signal)
+
+- Signal Foundation, non-profit
+- Voluntary Donations
+- Hide phone number
+- Tracks **nothing**
+:::
+::::
+
+## WhatsApp v Signal {.scrollable}
+
+| Aspect               | WhatsApp                  | Signal                         |
+|:---------------------|:--------------------------|:-------------------------------|
+| Ownership            | Meta (private for profit) | Signal Foundation (Non-profit) |
+| Funding Model        | **You** are the product   | Voluntary Donations            |
+| Group Chat           | :white_check_mark:        | :white_check_mark:             |
+| Community            | :white_check_mark:        | :x:                            |
+| Private Phone Number | :x:                       | :white_check_mark:             |
+| Hide Contact Details | :x:                       | :white_check_mark:             |
+| Tracks Interactions  | :white_check_mark:        | :x:                            |
+| Tracks Location      | :white_check_mark:        | :x:                            |
+| Tracks IP Address    | :white_check_mark:        | :x:                            |
+| Builds User Profile  | :white_check_mark:        | :x:                            |
+| Political Motives    | :white_check_mark:        | :x:                            |
 
 ::: {.notes}
 Speaker Notes can be added to each slide. **Formatting** can be used here too.
 :::
 
-## Columns and Lists
+## Challenges to Switching
 
-Slides can have columns and you can create [lists](https://quarto.org/docs/authoring/markdown-basics.html#lists) of
-different types.
+- No "community" feature in Signal
+- "_I've nothing to hide_"
+- Network Effect
+
+## No Community Feature
 
 :::: {.columns}
-
 ::: {.column width="50%"}
-**ToDo** (code)
 
-```markdown
-+ Learn Markdown
-+ Create Quarto Slides
-+ Publish on GitHub
-```
+#### Problem
+
+- No "Community" feature
 
 :::
+::: {.column width=50%}
 
-::: {.column width="50%"}
-**ToDo** (Rendered)
+#### Solution
 
-+ Learn Markdown
-+ Create Quarto Slides
-+ Publish on GitHub
+- Group chats have individual managers
+- New members are told about all groups and contact manager to sign up
 
 :::
 ::::
 
-::: {.notes}
-Slides can have columns and we can create unordered lists.
-:::
-
-## Columns and Lists (cont.)
+## I've Nothing to Hide {.scrollable}
 
 :::: {.columns}
-
 ::: {.column width="50%"}
-**Ordered** (code)
 
-```markdown
-1. A comes before
-2. B which is followed by
-3. C
-```
+#### Problem
+
+- Some people don't care about being tracked
+- Privacy should be default (but it's not 😒 )
 
 :::
+::: {.column width=50%}
 
-::: {.column width="50%"}
-**Ordered** (Rendered)
+#### Solution
 
-1. A comes before
-2. B which is followed by
-3. C
+- Not hiding, right to privacy ([Article 12 UN Declaration of Human
+  Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights))
+- Use of WhatsApp affects your contacts
+- If not bothered switching to privacy respecting tools shouldn't be a problem
 
 :::
 ::::
 
-::: {.notes}
-Or ordered lists.
-:::
-
-## Tables
-
-You can manually add [tables](https://quarto.org/docs/authoring/markdown-basics.html#tables).
+## Network Effect
 
 :::: {.columns}
-
 ::: {.column width="50%"}
 
-```markdown
-| Right | Left | Default | Center |
-|------:|:-----|---------|:------:|
-|   12  |  12  |    12   |    12  |
-|  123  |  123 |   123   |   123  |
-|    1  |    1 |     1   |     1  |
-```
+#### Problem
+
+- Resistance to change
+- "_Not another app!_"
+- No one uses it
+- Two concurrent systems
 
 :::
-::: {.column width="50%"}
+::: {.column width=50%}
 
-| Right | Left | Default | Center |
-|------:|:-----|---------|:------:|
-|   12  |  12  |    12   |    12  |
-|  123  |  123 |   123   |   123  |
-|    1  |    1 |     1   |     1  |
+#### Solution
+
+- ???
+- Already have lots
+- Close down WhatsApp community
 
 :::
 ::::
 
-::: {.notes}
-Tables can be added, but there is a better way to include these programatically
-:::
+## Links
 
-## Equations
-
-| Markdown Syntax                    | Output                       |
-|:----------------------------------:|:-----------------------------|
-| `inline math $E = mc^{2}$`         | inline math $E = mc^{2}$     |
-| ```display math: $$E = mc^{2}$$``` | display math: $$E = mc^{2}$$ |
-
-::: {.notes}
-You can write equations if you need to.
-:::
-
-## Embed Images
-
-[Figures](https://quarto.org/docs/authoring/figures.html) can be embeded using a URL and resized.
-
-```markdown
-![Relaxing in the Julian Alps](https://live.staticflickr.com/65535/53144704609_c5e6fa8c77_k.jpg){width=700}
-```
-
-![Relaxing in the Julian Alps](https://live.staticflickr.com/65535/53144704609_c5e6fa8c77_k.jpg){width=700}
-
-::: {.notes}
-:::
-
-## Embed Images (*cont.*)
-
-You can also include images locally.^[Make sure to `git add` them otherwise they won't publish] and make them hyperlinks.
-
-```markdown
-![[OSC Sheffield](https://osc-international.com/osc-sheffield)](img/OSC_Sheffield.png){width=300}
-```
-
-![[OSC Sheffield](https://osc-international.com/osc-sheffield)](img/OSC_Sheffield.png){width=300}
-
-::: {.notes}
-:::
-
-## R code
+- [Moving from WhatsApp to Signal: A good idea?](https://www.malwarebytes.com/blog/news/2025/03/moving-from-whatsapp-to-signal-a-good-idea)
+- [Signal vs. WhatsApp: Which One is Good to Use?](https://privacysavvy.com/security/mobile/signal-vs-whatsapp/)
 
 :::: {.columns}
-
-::: {.column width="50%"}
-Include [R code and output](https://quarto.org/docs/computations/r.html) with automatic referencing (see @fig-airquality2)
-
-```{r}
-#| label: fig-airquality
-#| fig-cap: "Temperature and ozone level."
-#| warning: false
-#| eval: false
-#| echo: true
-library(ggplot2)
-
-ggplot(airquality, aes(Temp, Ozone)) +
-  geom_point() +
-  geom_smooth(method = "loess")
-```
-
-:::
-::: {.column width="50%"}
-
-```{r}
-#| label: fig-airquality2
-#| fig-cap: "Temperature and ozone level."
-#| warning: false
-
-library(ggplot2)
-
-ggplot(airquality, aes(Temp, Ozone)) +
-  geom_point() +
-  geom_smooth(method = "loess")
-```
-
-:::
-
-::::
-
-::: {.notes}
-[R](https://www.r-project.org/) code can be embeded and executed to produce tables and figures.
-:::
-
-## Python code
-
-::: {.column width="50%"}
-Include [Python code and output](https://quarto.org/docs/computations/python.html) too
-
-```{.python}
-#| label: fig-polar
-#| fig-cap: "A line plot on a polar axis."
-#| warning: false
-#| eval: false
-#| echo: true
-import numpy as np
-import matplotlib.pyplot as plt
-
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(
-  subplot_kw = {'projection': 'polar'}
-)
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
-```
-
-:::
-::: {.column width="50%"}
-
-```{.python}
-#| label: fig-polar2
-#| fig-cap: "A line plot on a polar axis."
-#| warning: false
-#| eval: true
-#| echo: true
-import numpy as np
-import matplotlib.pyplot as plt
-
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(
-  subplot_kw = {'projection': 'polar'}
-)
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
-```
-
-:::
-::::
-
-::: {.notes}
-You can include [Python](https://www.python.org) code too
-:::
-
-## General code
-
-There are lots of options for showing, hiding, highlighting [code
-blocks](https://quarto.org/docs/presentations/revealjs/#code-blocks).
-
-```{.python code-line-numbers="6-8"}
-#| eval: true
-#| echo: true
-import numpy as np
-import matplotlib.pyplot as plt
-
-r = np.arange(0, 2, 0.01)
-theta = 2 * np.pi * r
-fig, ax = plt.subplots(subplot_kw={'projection': 'polar'})
-ax.plot(theta, r)
-ax.set_rticks([0.5, 1, 1.5, 2])
-ax.grid(True)
-plt.show()
-```
-
-## The Documentation is Good
-
-The official documentation is really good.
-
-+ [Get Started](https://quarto.org/docs/get-started/)
-+ [Markdown Basics](https://quarto.org/docs/authoring/markdown-basics.html)
-+ [Guide](https://quarto.org/docs/guide/) with many sections on [Presentations](https://quarto.org/docs/presentations/)
-  [Website](https://quarto.org/docs/websites/), [Books](https://quarto.org/docs/books/) and more.
-
-## Extensions
-
-:::: {.columns}
-
 ::: {.column width="70%"}
-[Extensions](https://quarto.org/docs/extensions/) for themes and other functionality
-(press `c` whilst viewing these slides :wink: ).
 
-+ [Shortcode/Filter](https://quarto.org/docs/extensions/listing-filters.html)
-+ [Journal Articles](https://quarto.org/docs/extensions/listing-journals.html)
-+ [Custom Formats](https://quarto.org/docs/extensions/listing-formats.html)
-+ [**RevealJS**](https://quarto.org/docs/extensions/listing-revealjs.html)
-+ [awesome-quarto](https://github.com/mcanouil/awesome-quarto) - Quarto tools & examples
+### Meta Tracking
+
+- [How Meta collects users personal data: a comprehensive analysis](https://en.todoandroid.es/meta-collects-data-from-users-this-is-how-it-does-it/)
+- [WhatsApp to share users' data with Facebook after recent Privacy Policy update](https://privacysavvy.com/news/privacy/whatsapp-to-share-data-with-facebook-after-privacy-policy-update/)
+- [“Localhost tracking” explained.](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could) - how Meta
+  bypass privacy protection on Android.
 
 :::
 ::: {.column width=30%}
-This Template...
-{{< qrcode <https://ns-rse.github.io/quarto-revealjs-template> qr2 width=400 height=400 >}}
+
+### General Software Privacy
+
+- [Privacy Guides](https://www.privacyguides.org/)
+- [Privcay Tools](https://www.privacytools.io/)
+
 :::
 ::::
+
+[pcc]: https://www.peakclimbingclub.co.uk/
+[pcc-facebook]: https://www.facebook.com/peakclimbingclub/

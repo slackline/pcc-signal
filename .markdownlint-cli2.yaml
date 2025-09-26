@@ -1,5 +1,8 @@
 # Configuration
 config:
+  heading-increment: false
+  no-alt-text: false
+  no-duplicate-heading: false
   # MD013 - line-length
   line_length:
     line_length: 120
@@ -16,6 +19,7 @@ globs:
 ignore:
   - ".quarto/**/*.md"
   - "_site/**/*.md"
+  - "_site/site_libs/revealjs/plugin/reveal-chalkboard/*.md"
   - "renv/**/*.md"
 
 # Fix any fixable errors
