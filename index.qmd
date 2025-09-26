@@ -1,0 +1,236 @@
+---
+title: "PCC - WhatsApp or Signal"
+# format: revealjs
+author:
+  - name: Neil Shephard
+  - name: Emily Ross
+
+from: markdown+emoji
+format:
+  # clean-revealjs:
+  revealjs:
+    theme: dark
+    incremental: false
+    slide-number: true
+    show-slide-number: speaker
+    auto-stretch: false
+    chalkboard: true
+    # embed-resources: true
+    # standalone: true
+    header: PCC Communication
+revealjs-plugins:
+  - confetti
+footer: "**Slides** : [**slackline.github.io/pcc-signal**](https://slackline.github.io/pcc-signal)"
+project:
+  preview:
+    port: 7864
+    host: localhost
+    watch-inputs: true
+filters:
+  - openlinksinnewpage
+  - reveal-header
+---
+
+## Scan This To View Slides
+
+{{< qrcode <https://slackline.github.io/pcc-signal> qr1 width=400 height=400 >}}
+
+[slackline.github.io/pcc-signal](https://slackline.github.io/pcc-signal)
+
+## Purpose
+
+- Proposed that the club switch from WhatsApp to Signal for primary mode of _official_ communication between members.
+
+## Peak Climbing Club Communication
+
+Historically...
+
+- Static Website [peakclimbingclub.co.uk][pcc]
+- Facebook Group [facebook.com/peakclimbingclub/][pcc-facebook]
+- WhatsApp Community with Groups
+
+## WhatsApp
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Privately owned by Meta
+- For profit (if not paying **you** are the product)
+- Messages end-to-end encrypted but "metadata" isn't
+- Code base is closed source (no scrutiny)
+- WhatsAppp shares **all** your contacts with groups
+- Excludes those who are concerned about privacy
+
+:::
+::: {.column width=50%}
+
+### Metadata Tracked
+
+- GPS Location
+- IP Address
+- Who you are messaging
+- When you are messaging
+- Communities/groups you are in
+- Your **contacts** details
+
+:::
+::::
+
+## Signal
+
+- Privacy Focused
+- Owned by non-profit Signal Foundation
+
+## {.scrollable}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+#### WhatsApp [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp)
+
+- Meta, for Profit
+- **You** are the product
+- Can't hide phone number
+- Tracks Metadata
+  - Interactions
+  - Location
+  - IP Address
+  - Usage
+- Builds user profile
+- Politically motivated
+
+:::
+::: {.column width=50%}
+
+#### Signal [![](img/signal.png){width=70}](https://www.flaticon.com/free-icons/signal)
+
+- Signal Foundation, non-profit
+- Voluntary Donations
+- Hide phone number
+- Tracks **nothing**
+:::
+::::
+
+## WhatsApp v Signal {.scrollable}
+
+| Aspect               | WhatsApp                  | Signal                         |
+|:---------------------|:--------------------------|:-------------------------------|
+| Ownership            | Meta (private for profit) | Signal Foundation (Non-profit) |
+| Funding Model        | **You** are the product   | Voluntary Donations            |
+| Group Chat           | :white_check_mark:        | :white_check_mark:             |
+| Community            | :white_check_mark:        | :x:                            |
+| Private Phone Number | :x:                       | :white_check_mark:             |
+| Hide Contact Details | :x:                       | :white_check_mark:             |
+| Tracks Interactions  | :white_check_mark:        | :x:                            |
+| Tracks Location      | :white_check_mark:        | :x:                            |
+| Tracks IP Address    | :white_check_mark:        | :x:                            |
+| Builds User Profile  | :white_check_mark:        | :x:                            |
+| Political Motives    | :white_check_mark:        | :x:                            |
+
+::: {.notes}
+Speaker Notes can be added to each slide. **Formatting** can be used here too.
+:::
+
+## Challenges to Switching
+
+- No "community" feature in Signal
+- "_I've nothing to hide_"
+- Network Effect
+
+## No Community Feature
+
+:::: {.columns}
+::: {.column width="50%"}
+
+#### Problem
+
+- No "Community" feature
+
+:::
+::: {.column width=50%}
+
+#### Solution
+
+- Group chats have individual managers
+- New members are told about all groups and contact manager to sign up
+
+:::
+::::
+
+## I've Nothing to Hide {.scrollable}
+
+:::: {.columns}
+::: {.column width="50%"}
+
+#### Problem
+
+- "_I've nothing to hide_"
+- Some people don't care about being tracked
+
+:::
+::: {.column width=50%}
+
+#### Solution
+
+- Not about hiding rather right to privacy ([Article 12 UN Declaration of Human
+  Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights))
+- Privacy should be default (but its not 😒 )
+- Use of WhatsApp affects your contacts
+- If not bothered switching to privacy respecting tools shouldn't be a problem
+
+:::
+::::
+
+## Network Effect
+
+:::: {.columns}
+::: {.column width="50%"}
+
+#### Problem
+
+- Resistance to change
+- "_Not another app!_"
+- No one uses it
+- Two concurrent systems
+
+:::
+::: {.column width=50%}
+
+#### Solution
+
+- ???
+- Already have lots
+- Close down WhatsApp community
+
+:::
+::::
+
+## Links
+
+- [Moving from WhatsApp to Signal: A good idea?](https://www.malwarebytes.com/blog/news/2025/03/moving-from-whatsapp-to-signal-a-good-idea)
+- [Signal vs. WhatsApp: Which One is Good to Use?](https://privacysavvy.com/security/mobile/signal-vs-whatsapp/)
+
+:::: {.columns}
+::: {.column width="70%"}
+
+### Meta Tracking
+
+- [How Meta collects users personal data: a comprehensive analysis](https://en.todoandroid.es/meta-collects-data-from-users-this-is-how-it-does-it/)
+- [WhatsApp to share users' data with Facebook after recent Privacy Policy update](https://privacysavvy.com/news/privacy/whatsapp-to-share-data-with-facebook-after-privacy-policy-update/)
+- [“Localhost tracking” explained.](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could) - how Meta
+  bypass privacy protection on Android.
+
+:::
+::: {.column width=30%}
+
+### General Software Privacy
+
+- [Privacy Guides](https://www.privacyguides.org/)
+- [Privcay Tools](https://www.privacytools.io/)
+
+:::
+::::
+
+[pcc]: https://www.peakclimbingclub.co.uk/
+[pcc-facebook]: https://www.facebook.com/peakclimbingclub/
