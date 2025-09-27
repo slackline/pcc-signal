@@ -59,8 +59,8 @@ Historically...
 - For profit (if not paying **you** are the product)
 - Messages end-to-end encrypted but "metadata" isn't
 - Code base is closed source (no scrutiny)
-- WhatsAppp shares **all** your contacts with groups
-- Excludes those who are concerned about privacy
+- WhatsAppp shares **all** your contacts with Meta
+- **Excludes** those who _are_ concerned about privacy
 
 :::
 ::: {.column width=50%}
@@ -165,7 +165,6 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 #### Problem
 
-- "_I've nothing to hide_"
 - Some people don't care about being tracked
 - Privacy should be default (but it's not 😒 )
 
@@ -174,7 +173,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 #### Solution
 
-- Not about hiding rather right to privacy ([Article 12 UN Declaration of Human
+- Not hiding, right to privacy ([Article 12 UN Declaration of Human
   Rights](https://www.un.org/en/about-us/universal-declaration-of-human-rights))
 - Use of WhatsApp affects your contacts
 - If not bothered switching to privacy respecting tools shouldn't be a problem

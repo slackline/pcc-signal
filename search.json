@@ -25,7 +25,7 @@
     "href": "index.html#whatsapp",
     "title": "PCC - Communication",
     "section": "WhatsApp",
-    "text": "WhatsApp\n\n\n\nPrivately owned by Meta\nFor profit (if not paying you are the product)\nMessages end-to-end encrypted but “metadata” isn’t\nCode base is closed source (no scrutiny)\nWhatsAppp shares all your contacts with groups\nExcludes those who are concerned about privacy\n\n\nMetadata Tracked\n\nGPS Location\nIP Address\nWho you are messaging\nWhen you are messaging\nCommunities/groups you are in\nYour contacts details"
+    "text": "WhatsApp\n\n\n\nPrivately owned by Meta\nFor profit (if not paying you are the product)\nMessages end-to-end encrypted but “metadata” isn’t\nCode base is closed source (no scrutiny)\nWhatsAppp shares all your contacts with Meta\nExcludes those who are concerned about privacy\n\n\nMetadata Tracked\n\nGPS Location\nIP Address\nWho you are messaging\nWhen you are messaging\nCommunities/groups you are in\nYour contacts details"
   },
   {
     "objectID": "index.html#signal",
@@ -67,7 +67,7 @@
     "href": "index.html#ive-nothing-to-hide",
     "title": "PCC - Communication",
     "section": "I’ve Nothing to Hide",
-    "text": "I’ve Nothing to Hide\n\n\nProblem\n\n“I’ve nothing to hide”\nSome people don’t care about being tracked\nPrivacy should be default (but it’s not 😒 )\n\n\nSolution\n\nNot about hiding rather right to privacy (Article 12 UN Declaration of Human Rights)\nUse of WhatsApp affects your contacts\nIf not bothered switching to privacy respecting tools shouldn’t be a problem"
+    "text": "I’ve Nothing to Hide\n\n\nProblem\n\nSome people don’t care about being tracked\nPrivacy should be default (but it’s not 😒 )\n\n\nSolution\n\nNot hiding, right to privacy (Article 12 UN Declaration of Human Rights)\nUse of WhatsApp affects your contacts\nIf not bothered switching to privacy respecting tools shouldn’t be a problem"
   },
   {
     "objectID": "index.html#network-effect",
