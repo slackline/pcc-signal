@@ -155,6 +155,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 - Group chats have individual managers
 - New members are told about all groups and contact manager to sign up
+- Dedicated _Prospective Members_ without need to be in "Community"
 
 :::
 ::::
