@@ -48,6 +48,7 @@ Historically...
 - Static Website [peakclimbingclub.co.uk][pcc]
 - Facebook Group [facebook.com/peakclimbingclub/][pcc-facebook]
 - WhatsApp Community with Groups
+- Official group messages from [secretary.peakclimbingclub@gmail.com][pcc-email]
 
 ## WhatsApp [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp)
 
@@ -154,6 +155,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 - Group chats have individual managers
 - New members are told about all groups and contact manager to sign up
+- Dedicated _Prospective Members_ without need to be in "Community"
 
 :::
 ::::
@@ -200,12 +202,20 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 - Already have lots
 - Could be a dedicated "PCC" messaging app
-- Close down WhatsApp community
+- Either...
+  - Switch & close down WhatsApp community
+  - Don't switch
 
 :::
 ::::
 
-## Links
+## Challenges to Sticking with WhatsApp
+
+- Excludes those concerned about privacy
+- [Advertising][whatsapp-advertising]
+
+
+## Links {.scrollable}
 
 - [Moving from WhatsApp to Signal: A good idea?](https://www.malwarebytes.com/blog/news/2025/03/moving-from-whatsapp-to-signal-a-good-idea)
 - [Signal vs. WhatsApp: Which One is Good to Use?](https://privacysavvy.com/security/mobile/signal-vs-whatsapp/)
@@ -215,21 +225,27 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 ### Meta Tracking
 
-- [How Meta collects users personal data: a comprehensive analysis](https://en.todoandroid.es/meta-collects-data-from-users-this-is-how-it-does-it/)
-- [WhatsApp to share users' data with Facebook after recent Privacy Policy update](https://privacysavvy.com/news/privacy/whatsapp-to-share-data-with-facebook-after-privacy-policy-update/)
+- [How Meta collects users personal data](https://en.todoandroid.es/meta-collects-data-from-users-this-is-how-it-does-it/)
+- [WhatsApp to share users' data with Facebook](https://privacysavvy.com/news/privacy/whatsapp-to-share-data-with-facebook-after-privacy-policy-update/)
 - [“Localhost tracking” explained.](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could) - how Meta
   bypass privacy protection on Android.
 
 :::
 ::: {.column width=30%}
 
-### General Software Privacy
+### Software Privacy
 
-- [Privacy Guides](https://www.privacyguides.org/)
-- [Privcay Tools](https://www.privacytools.io/)
+- [Privacy Guides][privacy-guides]
+- [Privacy Tools][privacy-tools]
+- [European Alternatives][eu-alt]
 
 :::
 ::::
 
+[eu-alt]: https://european-alternatives.eu/
 [pcc]: https://www.peakclimbingclub.co.uk/
+[pcc-email]: mailto:secretary.peakclimbingclub@gmail.com
 [pcc-facebook]: https://www.facebook.com/peakclimbingclub/
+[privacy-guides]: https://www.privacyguides.org/
+[privacy-tools]: https://www.privacytools.io/
+[whatsapp-advertising]: https://www.bbc.co.uk/news/articles/cn5y07yqg5do
