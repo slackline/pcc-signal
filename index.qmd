@@ -226,7 +226,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 ### Meta Tracking
 
 - [How Meta collects users personal data: a comprehensive analysis](https://en.todoandroid.es/meta-collects-data-from-users-this-is-how-it-does-it/)
-- [WhatsApp to share users' data with Facebook after recent Privacy Policy update](https://privacysavvy.com/news/privacy/whatsapp-to-share-data-with-facebook-after-privacy-policy-update/)
+- [WhatsApp to share users' data with Facebook](https://privacysavvy.com/news/privacy/whatsapp-to-share-data-with-facebook-after-privacy-policy-update/)
 - [“Localhost tracking” explained.](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could) - how Meta
   bypass privacy protection on Android.
 
@@ -236,11 +236,13 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 ### General Software Privacy
 
 - [Privacy Guides][privacy-guides]
-- [Privcay Tools][privacy-tools]
+- [Privacy Tools][privacy-tools]
+- [European Alternatives][eu-alt]
 
 :::
 ::::
 
+[eu-alt]: https://european-alternatives.eu/
 [pcc]: https://www.peakclimbingclub.co.uk/
 [pcc-email]: mailto:secretary.peakclimbingclub@gmail.com
 [pcc-facebook]: https://www.facebook.com/peakclimbingclub/
