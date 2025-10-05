@@ -215,7 +215,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 - [Advertising][whatsapp-advertising]
 
 
-## Links
+## Links {.scrollable}
 
 - [Moving from WhatsApp to Signal: A good idea?](https://www.malwarebytes.com/blog/news/2025/03/moving-from-whatsapp-to-signal-a-good-idea)
 - [Signal vs. WhatsApp: Which One is Good to Use?](https://privacysavvy.com/security/mobile/signal-vs-whatsapp/)
@@ -225,7 +225,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 ### Meta Tracking
 
-- [How Meta collects users personal data: a comprehensive analysis](https://en.todoandroid.es/meta-collects-data-from-users-this-is-how-it-does-it/)
+- [How Meta collects users personal data](https://en.todoandroid.es/meta-collects-data-from-users-this-is-how-it-does-it/)
 - [WhatsApp to share users' data with Facebook](https://privacysavvy.com/news/privacy/whatsapp-to-share-data-with-facebook-after-privacy-policy-update/)
 - [“Localhost tracking” explained.](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could) - how Meta
   bypass privacy protection on Android.
@@ -233,7 +233,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 :::
 ::: {.column width=30%}
 
-### General Software Privacy
+### Software Privacy
 
 - [Privacy Guides][privacy-guides]
 - [Privacy Tools][privacy-tools]
