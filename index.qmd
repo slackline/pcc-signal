@@ -48,6 +48,7 @@ Historically...
 - Static Website [peakclimbingclub.co.uk][pcc]
 - Facebook Group [facebook.com/peakclimbingclub/][pcc-facebook]
 - WhatsApp Community with Groups
+- Official group messages from [secretary.peakclimbingclub@gmail.com][pcc-email]
 
 ## WhatsApp [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp)
 
@@ -200,10 +201,18 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 - Already have lots
 - Could be a dedicated "PCC" messaging app
-- Close down WhatsApp community
+- Either...
+  - Switch & close down WhatsApp community
+  - Don't switch
 
 :::
 ::::
+
+## Challenges to Sticking with WhatsApp
+
+- Excludes those concerned about privacy
+- [Advertising][whatsapp-advertising]
+
 
 ## Links
 
@@ -225,11 +234,15 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 ### General Software Privacy
 
-- [Privacy Guides](https://www.privacyguides.org/)
-- [Privcay Tools](https://www.privacytools.io/)
+- [Privacy Guides][privacy-guides]
+- [Privcay Tools][privacy-tools]
 
 :::
 ::::
 
 [pcc]: https://www.peakclimbingclub.co.uk/
+[pcc-email]: mailto:secretary.peakclimbingclub@gmail.com
 [pcc-facebook]: https://www.facebook.com/peakclimbingclub/
+[privacy-guides]: https://www.privacyguides.org/
+[privacy-tools]: https://www.privacytools.io/
+[whatsapp-advertising]: https://www.bbc.co.uk/news/articles/cn5y07yqg5do
