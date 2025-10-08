@@ -41,6 +41,8 @@ filters:
 
 - Proposed that the club switch from WhatsApp to Signal for primary mode of _official_ communication between members.
 
+[![XKCD : Standards](https://imgs.xkcd.com/comics/standards.png)][xkcd_standards]
+
 ## Peak Climbing Club Communication
 
 Historically...
@@ -213,7 +215,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 - Excludes those concerned about privacy
 - [Advertising][whatsapp-advertising]
-
+- On-going invasion of privacy
 
 ## Links {.scrollable}
 
@@ -249,3 +251,4 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 [privacy-guides]: https://www.privacyguides.org/
 [privacy-tools]: https://www.privacytools.io/
 [whatsapp-advertising]: https://www.bbc.co.uk/news/articles/cn5y07yqg5do
+[xkcd_standards]: https://xkcd.com/927/
