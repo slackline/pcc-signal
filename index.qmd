@@ -2,8 +2,8 @@
 title: "PCC - Communication"
 # format: revealjs
 author:
-  - name: Neil Shephard
   - name: Emily Ross
+  - name: (Neil Shephard)
 
 from: markdown+emoji
 format:
@@ -41,6 +41,8 @@ filters:
 
 - Proposed that the club switch from WhatsApp to Signal for primary mode of _official_ communication between members.
 
+[![XKCD : Standards](https://imgs.xkcd.com/comics/standards.png)][xkcd_standards]
+
 ## Peak Climbing Club Communication
 
 Historically...
@@ -50,7 +52,7 @@ Historically...
 - WhatsApp Community with Groups
 - Official group messages from [secretary.peakclimbingclub@gmail.com][pcc-email]
 
-## WhatsApp [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp)
+## WhatsApp [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp) {.scrollable}
 
 :::: {.columns}
 
@@ -82,13 +84,14 @@ Historically...
 
 - Privacy Focused
 - Owned by non-profit Signal Foundation
+- Tracks nothing
 
 ## {.scrollable}
 
 :::: {.columns}
 ::: {.column width="50%"}
 
-#### WhatsApp [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp)
+#### [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp)
 
 - Meta, for Profit
 - **You** are the product
@@ -104,7 +107,7 @@ Historically...
 :::
 ::: {.column width=50%}
 
-#### Signal [![](img/signal.png){width=70}](https://www.flaticon.com/free-icons/signal)
+#### [![](img/signal.png){width=70}](https://www.flaticon.com/free-icons/signal)
 
 - Signal Foundation, non-profit
 - Voluntary Donations
@@ -115,19 +118,19 @@ Historically...
 
 ## WhatsApp v Signal {.scrollable}
 
-| Aspect               | WhatsApp                  | Signal                         |
-|:---------------------|:--------------------------|:-------------------------------|
-| Ownership            | Meta (private for profit) | Signal Foundation (Non-profit) |
-| Funding Model        | **You** are the product   | Voluntary Donations            |
-| Group Chat           | :white_check_mark:        | :white_check_mark:             |
-| Community            | :white_check_mark:        | :x:                            |
-| Private Phone Number | :x:                       | :white_check_mark:             |
-| Hide Contact Details | :x:                       | :white_check_mark:             |
-| Tracks Interactions  | :white_check_mark:        | :x:                            |
-| Tracks Location      | :white_check_mark:        | :x:                            |
-| Tracks IP Address    | :white_check_mark:        | :x:                            |
-| Builds User Profile  | :white_check_mark:        | :x:                            |
-| Political Motives    | :white_check_mark:        | :x:                            |
+| Aspect               | [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp) | [![](img/signal.png){width=70}](https://www.flaticon.com/free-icons/signal) |
+|:---------------------|:--------------------------------------------------------------------------------|:----------------------------------------------------------------------------|
+| Ownership            | Meta (private for profit)                                                       | Signal Foundation (Non-profit)                                              |
+| Funding Model        | **You** are the product                                                         | Voluntary Donations                                                         |
+| Group Chat           | :white_check_mark:                                                              | :white_check_mark:                                                          |
+| Community            | :white_check_mark:                                                              | :x:                                                                         |
+| Private Phone Number | :x:                                                                             | :white_check_mark:                                                          |
+| Hide Contact Details | :x:                                                                             | :white_check_mark:                                                          |
+| Tracks Interactions  | :white_check_mark:                                                              | :x:                                                                         |
+| Tracks Location      | :white_check_mark:                                                              | :x:                                                                         |
+| Tracks IP Address    | :white_check_mark:                                                              | :x:                                                                         |
+| Builds User Profile  | :white_check_mark:                                                              | :x:                                                                         |
+| Political Motives    | :white_check_mark:                                                              | :x:                                                                         |
 
 ::: {.notes}
 Speaker Notes can be added to each slide. **Formatting** can be used here too.
@@ -155,7 +158,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 - Group chats have individual managers
 - New members are told about all groups and contact manager to sign up
-- Dedicated _Prospective Members_ without need to be in "Community"
+- **Bonus** Dedicated _Prospective Members_ without need to be in "Community"
 
 :::
 ::::
@@ -200,7 +203,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 #### Solution
 
-- Already have lots
+- Already have lots Apps installed
 - Could be a dedicated "PCC" messaging app
 - Either...
   - Switch & close down WhatsApp community
@@ -213,7 +216,8 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 
 - Excludes those concerned about privacy
 - [Advertising][whatsapp-advertising]
-
+- On-going invasion of privacy
+- Prospective Members can't join community
 
 ## Links {.scrollable}
 
@@ -249,3 +253,4 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 [privacy-guides]: https://www.privacyguides.org/
 [privacy-tools]: https://www.privacytools.io/
 [whatsapp-advertising]: https://www.bbc.co.uk/news/articles/cn5y07yqg5do
+[xkcd_standards]: https://xkcd.com/927/
