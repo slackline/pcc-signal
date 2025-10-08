@@ -219,6 +219,14 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 - On-going invasion of privacy
 - Prospective Members can't join community
 
+## Questions about Signal
+
+- [Does Signal send my number to my
+  contacts?](https://support.signal.org/hc/en-us/articles/360007061452-Does-Signal-send-my-number-to-my-contacts)
+- [Group chats](https://support.signal.org/hc/en-us/articles/360007319331-Group-chats)
+- [Manage a group](https://support.signal.org/hc/en-us/articles/360050427692-Manage-a-group)
+-
+
 ## Links {.scrollable}
 
 - [Moving from WhatsApp to Signal: A good idea?](https://www.malwarebytes.com/blog/news/2025/03/moving-from-whatsapp-to-signal-a-good-idea)
