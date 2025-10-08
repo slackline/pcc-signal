@@ -2,8 +2,8 @@
 title: "PCC - Communication"
 # format: revealjs
 author:
-  - name: Neil Shephard
   - name: Emily Ross
+  - name: (Neil Shephard)
 
 from: markdown+emoji
 format:
@@ -52,7 +52,7 @@ Historically...
 - WhatsApp Community with Groups
 - Official group messages from [secretary.peakclimbingclub@gmail.com][pcc-email]
 
-## WhatsApp [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp)
+## WhatsApp [![](img/whatsapp.png){width=70}](https://www.flaticon.com/free-icons/whatsapp) {.scrollable}
 
 :::: {.columns}
 
@@ -84,6 +84,7 @@ Historically...
 
 - Privacy Focused
 - Owned by non-profit Signal Foundation
+- Tracks nothing
 
 ## {.scrollable}
 
@@ -216,7 +217,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 - Excludes those concerned about privacy
 - [Advertising][whatsapp-advertising]
 - On-going invasion of privacy
-- New Members can't join community
+- Prospective Members can't join community
 
 ## Links {.scrollable}
 
