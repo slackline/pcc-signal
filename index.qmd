@@ -39,9 +39,11 @@ filters:
 
 ## Purpose
 
-- Proposed that the club switch from WhatsApp to Signal for primary mode of _official_ communication between members.
+- Proposed that the club switch from WhatsApp to Signal for primary mode of _official_ communication between members.[^1]
 
 [![XKCD : Standards](https://imgs.xkcd.com/comics/standards.png)][xkcd_standards]
+
+[^1]: [Why are Big Tech companies a threat to human rights? - Amnesty International][amnesty]
 
 ## Peak Climbing Club Communication
 
@@ -102,7 +104,7 @@ Historically...
   - IP Address
   - Usage
 - Builds user profile
-- Politically motivated
+- [Politically motivated][amnesty]
 
 :::
 ::: {.column width=50%}
@@ -130,7 +132,7 @@ Historically...
 | Tracks Location      | :white_check_mark:                                                              | :x:                                                                         |
 | Tracks IP Address    | :white_check_mark:                                                              | :x:                                                                         |
 | Builds User Profile  | :white_check_mark:                                                              | :x:                                                                         |
-| Political Motives    | :white_check_mark:                                                              | :x:                                                                         |
+| [Political Motives][amnesty]    | :white_check_mark:                                                              | :x:                                                                         |
 
 ::: {.notes}
 Speaker Notes can be added to each slide. **Formatting** can be used here too.
@@ -254,6 +256,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 :::
 ::::
 
+[amnesty]: https://www.amnesty.org/en/latest/news/2025/08/why-are-big-tech-companies-a-threat-to-human-rights/
 [eu-alt]: https://european-alternatives.eu/
 [pcc]: https://www.peakclimbingclub.co.uk/
 [pcc-email]: mailto:secretary.peakclimbingclub@gmail.com
