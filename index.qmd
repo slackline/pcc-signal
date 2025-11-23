@@ -67,6 +67,7 @@ Historically...
 - WhatsAppp shares **all** your contacts with Meta
 - **Excludes** those who _are_ concerned about privacy
 - [Security breaches](https://www.wired.com/story/a-simple-whatsapp-security-flaw-exposed-billions-phone-numbers/)
+([original paper](https://github.com/sbaresearch/whatsapp-census))
 :::
 ::: {.column width=50%}
 
