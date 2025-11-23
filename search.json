@@ -25,7 +25,7 @@
     "href": "index.html#whatsapp",
     "title": "PCC - Communication",
     "section": "WhatsApp ",
-    "text": "WhatsApp \n\n\n\nPrivately owned by Meta\nFor profit (if not paying you are the product)\nMessages end-to-end encrypted but “metadata” isn’t\nCode base is closed source (no scrutiny)\nWhatsAppp shares all your contacts with Meta\nExcludes those who are concerned about privacy\nSecurity breaches\n\n\nMetadata Tracked\n\nGPS Location\nIP Address\nWho you are messaging\nWhen you are messaging\nCommunities/groups you are in\nYour contacts details"
+    "text": "WhatsApp \n\n\n\nPrivately owned by Meta\nFor profit (if not paying you are the product)\nMessages end-to-end encrypted but “metadata” isn’t\nCode base is closed source (no scrutiny)\nWhatsAppp shares all your contacts with Meta\nExcludes those who are concerned about privacy\nSecurity breaches (original paper)\n\n\nMetadata Tracked\n\nGPS Location\nIP Address\nWho you are messaging\nWhen you are messaging\nCommunities/groups you are in\nYour contacts details"
   },
   {
     "objectID": "index.html#signal",
