@@ -218,7 +218,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 ## Challenges to Sticking with WhatsApp
 
 - Excludes those concerned about privacy
-- [Advertising][whatsapp-advertising]
+- [Advertising][whatsapp-advertising] (see also [here][whatsapp-advertising-bbc])
 - On-going invasion of privacy
 - Prospective Members can't join community
 
@@ -264,5 +264,6 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 [pcc-facebook]: https://www.facebook.com/peakclimbingclub/
 [privacy-guides]: https://www.privacyguides.org/
 [privacy-tools]: https://www.privacytools.io/
-[whatsapp-advertising]: https://www.bbc.co.uk/news/articles/cn5y07yqg5do
+[whatsapp-advertising]: https://faq.whatsapp.com/661306693503248/?cms_platform=android
+[whatsapp-advertising-bbc]: https://www.bbc.co.uk/news/articles/cn5y07yqg5do
 [xkcd_standards]: https://xkcd.com/927/
