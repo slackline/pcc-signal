@@ -244,6 +244,7 @@ Speaker Notes can be added to each slide. **Formatting** can be used here too.
 - [WhatsApp to share users' data with Facebook](https://privacysavvy.com/news/privacy/whatsapp-to-share-data-with-facebook-after-privacy-policy-update/)
 - [“Localhost tracking” explained.](https://www.zeropartydata.es/p/localhost-tracking-explained-it-could) - how Meta
   bypass privacy protection on Android.
+- [Every Way Meta Tracks You, and How to Stop It - Proton](https://www.youtube.com/watch?v=Yv2Eb_kJous)
 
 :::
 ::: {.column width=30%}
